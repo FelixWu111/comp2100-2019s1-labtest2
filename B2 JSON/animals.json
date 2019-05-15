@@ -1,0 +1,19 @@
+{
+    "Animals": [
+        {
+            "name": "Fred",
+            "breed": "Golden_Retriever",
+            "age": 4
+        },
+        {
+            "name": "Sally",
+            "breed": "Tabby",
+            "age": 9
+        },
+        {
+            "name": "Magikarp",
+            "breed": "Clownfish",
+            "age": 100
+        }
+    ]
+}

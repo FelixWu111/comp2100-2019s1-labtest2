@@ -1,0 +1,20 @@
+<?xml version = "1.0"?>
+<Animal>
+   <animal ID = "1">
+      <name>Fred</name>
+      <age>4</age>
+      <breed>Golden_Retriever</breed>
+   </animal>
+   
+   <animal ID = "2">
+      <name>Sally</name>
+      <age>9</age>
+      <breed>Tabby</breed>
+   </animal>
+   
+   <animal ID = "3">
+      <name>Magikarp</name>
+      <age>100</age>
+       <breed>Clownfish</breed>
+   </animal>
+</Animal>
